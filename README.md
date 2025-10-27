@@ -1,4 +1,4 @@
-# REMITTANCE
+# LES DETERMINANT DES REMISES MIGRATOIRES
 # Analyse économétrique des remittances en Afrique (2001–2024)
 
 ## 🎯 Objectif du projet
